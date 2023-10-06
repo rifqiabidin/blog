@@ -1,0 +1,7 @@
+[submodule "rifqiabidinblog/themes/paper"]
+	path = rifqiabidinblog/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "rifqiabidinblog/public"]
+	path = rifqiabidinblog/public
+	url = https://github.com/rifqiabidin/rifqiabidin.github.io.git
+	branch = main

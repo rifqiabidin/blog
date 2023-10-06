@@ -1,0 +1,4 @@
+baseURL = 'https://rifqiabidin.github.io/'
+languageCode = 'en-us'
+title = 'Rifqiabidin Blog'
+theme = "paper"
