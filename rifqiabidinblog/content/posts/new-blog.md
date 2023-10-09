@@ -1,7 +1,7 @@
 ---
 title: "New Blog"
 date: 2023-10-06T14:32:53+07:00
-draft: false
+draft: True
 ---
 
 Hello with Hugo!
