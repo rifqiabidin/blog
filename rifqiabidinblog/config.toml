@@ -10,7 +10,7 @@ theme = "paper"
   color = 'linen'                           # linen, wheat, gray, light
 
   # header social icons
-  twitter = 'mrifqiabidin'               # twitter.com/YOUR_TWITTER_ID
+  twitter = 'rifqiabidin'               # twitter.com/YOUR_TWITTER_ID
   github = 'rifqiabidin'                 # github.com/YOUR_GITHUB_ID
   instagram = 'mrifqiabidin'           # instagram.com/YOUR_INSTAGRAM_ID
   linkedin = 'rifqiabidin'             # linkedin.com/in/YOUR_LINKEDIN_ID
