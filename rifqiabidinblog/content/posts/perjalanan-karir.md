@@ -18,7 +18,7 @@ Selanjutnya, pekerjaan-pekerjaan saya mulai mengerucutkan jalan karir sebagai _d
 
 _Lantas kenapa tidak fokus sebagai data analyst?_
 
-Momen refleksi saya terhadap karir terjadi di pertengahan tahun 2023. Selepas terkena pemutusan hak kerja (PHK), saya memberikan ruang untuk lebih mengenal diri saya sekaligus melakukan refleksi terhadap karir, apa yang sudah berhasil dan apa yang ingin saya capai. Setelah mempertimbangkan berbagai opsi yang ada, saya tertarik untuk mendalami hal teknis yang dapat langsung diterapkan dalam bisnis. Akhirnya, saya memutuskan untuk melakukan _career switch_ sebagai _data engineer_.
+Momen refleksi saya terhadap karir terjadi di pertengahan tahun 2023. Selepas terkena pemutusan hak kerja (PHK), saya memberikan ruang untuk lebih mengenal diri saya sekaligus melakukan refleksi terhadap karir, apa yang sudah berhasil dan apa yang ingin saya capai. Setelah mempertimbangkan berbagai opsi yang ada, saya sadari saya senang untuk menjadi _enabler_ bagi orang lain dan tertarik untuk mendalami hal teknis yang dapat langsung diterapkan dalam bisnis. Akhirnya, saya memutuskan untuk melakukan _career switch_ sebagai _data engineer_.
 
 Beberapa tulisan dan video berikut cukup mempengaruhi saya dalam pengambilan keputusan ini.
 - [Goodbye, Data Science](https://ryxcommar.com/2022/11/27/goodbye-data-science/)

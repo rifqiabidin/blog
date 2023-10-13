@@ -1,6 +1,13 @@
 ---
-title: "Data Fellowship Iykra"
+title: "Data Fellowship IYKRA"
 date: 2023-10-09T06:00:30+07:00
-draft: true
+draft: False
 ---
 
+Melakukan _career switch_ merupakan salah satu pilihan yang tidak mudah bagi saya, penjelasan lebih lengkapnya ada di tulisan saya yang berjudul [perjalanan karir](https://rifqiabidin.github.io/posts/perjalanan-karir/). Banyak faktor yang menjadi pertimbangan untuk keputusan tersebut. Pada akhirnya kita menjalani hidup atas pilihan-pilihan kita sendiri, _so, be it_.
+
+Sebenarnya banyak opsi untuk melakukan _career switch_, Salah satu cara yang pernah saya lakukan adalah sewaktu ada _internal hiring_ saat saya bekerja sebagai _marketing technology_ di Grab. Secara _workload_, pekerjaannya tidak berubah terlalu banyak, hanya cakupan _counterpart_ yang semakin luas. Saat posisi saya sebagai _marketing technology_ cakupan pekerjaan saya hanya terbatas di tim _marketing_, CRM, terkadang berurusan juga dengan tim _product manager_ dan _business intelligence_. Saat bekerja sebagai _channel performance analyst_, praktis interaksi di kantor bertambah dengan tim _sales_, _finance_ dan semakin intensif dengan tim data dan _product manager_.
+
+Opsi lainnya adalah dengan melamar pekerjaan sesuai dengan aspirasi karir yang dituju. Mungkin opsi ini terlihat sulit namun sangat mungkin untuk dilakukan. Sayangnya kondisi saya kurang memungkinkan untuk mengambil opsi tersebut. Karena itu saya mengambil opsi lainnya, _switch career_ melalui jalur pelatihan kerja. Program pelatihan kerja ini banyak jenisnya, salah satu yang terkenal saat ini adalah model yang kita kenal dengan nama _bootcamp_. Sebenarnya saya salah seorang yang skeptis terhadap model _bootcamp_ ini, karena saya berpikir belajar itu bisa dilakukan sendiri karena akses terhadap pengetahuan sangat mudah sekarang. Namun ilmu itu bukanlah hal yang utama yang menjadi keunggulan program semacam ini tapi lingkungan untuk belajar. Hal ini juga yang menjadi salah satu pertimbangan kenapa saya memilih _switch career_ melalui program pelatihan kerja.
+
+Semenjak pandemi, pertumbuhan bisnis pendidikan semacam _bootcamp_ ini semakin subur. Cara saya menilai kualitas program pelatihan semacam ini adalah dari konsep pelatihannya, alumninya dan rekam sejarahnya. Jika ada program yang _too good to be true_, katakanlah semacam jaminan disalurkan kerja, langsung saya coret dari daftar. Beberapa opsi yang menurut saya menarik adalah [IYKRA](https://iykra.com/) dan [Pacmann](https://pacmann.io/). IYKRA sendiri memiliki program [Data Fellowship](https://iykra.com/kelas-data/fellowship) dan Pacmann memiliki [Job Preparation Program](https://pacmann.io/job-preparation-program). Meski begitu, saya pikir program [Pacmann Pro](https://pacmann.io/pacmann-pro) juga sebenarnya sudah lebih dari cukup untuk kebutuhan saya. Setelah melalui beberapa pertimbangan, akhirnya saya memilih IYKRA dengan bergabung di Data Fellowship Program.
